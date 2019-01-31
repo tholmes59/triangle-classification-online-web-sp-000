@@ -14,7 +14,7 @@ class Triangle
     elsif side1 == side2 || side1 == side3 || side2 == side3
       :isosceles
       elsif side1 != side2 && side1 != side3 && side2 != side3
-      
+      :scalene
     end
   end
   
