@@ -30,7 +30,7 @@ class Triangle
   end
   
   class TriangleError < StandardError
-    # triangle error code
+    "You are violating the laws of triangles!"
   end
   
 end
